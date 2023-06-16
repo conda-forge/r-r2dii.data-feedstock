@@ -1,11 +1,11 @@
-About r-r2dii.data
-==================
+About r-r2dii.data-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2dii.data-feedstock/blob/main/LICENSE.txt)
 
 Home: https://2degreesinvesting.github.io/r2dii.data/, https://github.com/2DegreesInvesting/r2dii.data
 
 Package license: CC0-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r2dii.data-feedstock/blob/main/LICENSE.txt)
 
 Summary: These datasets support the implementation in R of the software 'PACTA' (Paris Agreement Capital Transition Assessment), which is a free tool that calculates the alignment between corporate lending portfolios and climate scenarios (<https://2degrees-investing.org/>). Financial institutions use 'PACTA' to study how their capital allocation decisions align with climate change mitigation goals. Because both financial institutions and market data providers keep their data private, this package provides fake, public data to enable the development and use of 'PACTA' in R.
 
